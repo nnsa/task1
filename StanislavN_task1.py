@@ -159,4 +159,3 @@ make_operation_button('Сьогоднішня дата').grid(column=0, row=4, s
 
 root.mainloop()
 
-
