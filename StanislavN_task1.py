@@ -158,3 +158,4 @@ make_operation_button('розрахувати').grid(column=3, row=4, sticky='wn
 make_operation_button('Сьогоднішня дата').grid(column=0, row=4, sticky='wnse')
 
 root.mainloop()
+
